@@ -9,7 +9,7 @@ const config = {
   title: "palpatine",
   tagline: "Learning Docusaurus 🦖",
   url: "https://batunpc.github.io",
-  baseUrl: "/batunpc-dokku/",
+  baseUrl: "/dokku/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
@@ -18,7 +18,7 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "batunpc", // Usually your GitHub org/user name.
-  projectName: "batunpc-dokku", // Usually your repo name.
+  projectName: "dokku", // Usually your repo name.
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
